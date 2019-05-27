@@ -1,6 +1,6 @@
 # Welcome to My Page
 
-##TUGAS GIS
+## TUGAS GIS
 
 Fauzi Fadlurahman Fakultas Sains dan Teknologi Jurusan Sistem Informasi 
 Angkatan 2016
