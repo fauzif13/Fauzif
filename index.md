@@ -2,11 +2,8 @@
 
 ## TUGAS GIS
 
-Fauzi Fadlurahman Fakultas Sains dan Teknologi Jurusan Sistem Informasi 
-Angkatan 2016
-
-
-### Markdown
+Fauzi Fadlurahman Merupakan Mahasiswa UIN SUSKA Riau Fakultas Sains dan Teknologi
+Jurusan Sistem Informasi Angkatan 2016
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
