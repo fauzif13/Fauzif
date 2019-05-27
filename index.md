@@ -1,8 +1,10 @@
-## Welcome to GitHub Pages
+# Welcome to My Page
 
-You can use the [editor on GitHub](https://github.com/fauzif13/Fauzif/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+##TUGAS GIS
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Fauzi Fadlurahman Fakultas Sains dan Teknologi Jurusan Sistem Informasi 
+Angkatan 2016
+
 
 ### Markdown
 
